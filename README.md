@@ -10,8 +10,8 @@
  2. Extraia os arquivos
  3. Verifique se existe alguma versão do Python instalado. Se não houver, realize a instalação de acordo com sua plataforma (https://www.python.org/downloads/)
  4. Abra seu terminal de preferência e execute os seguintes comandos:
-	 5. pip install git+https://github.com/rodrigorgs/tupy.git
-	 6. python game.py ou python3 game.py
+	- pip install git+https://github.com/rodrigorgs/tupy.git
+ 	- python game.py ou python3 game.py
 
 
 	
